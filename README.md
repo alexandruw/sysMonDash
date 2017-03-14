@@ -54,6 +54,8 @@ Download the application from https://github.com/nuxsmin/sysMonDash and unpack i
 
 Point to http://yourserver.com/sysMonDash/config.php and set it according to your environment. 
 
+Modify "Configuration password" at bottom. I will be used to auth ("Configuration hash" input) next time you want to change config.
+
 ---
 
 **DEMO: http://sysmondash.cygnux.org**
